@@ -1,2 +1,2 @@
 # Basic_Calculator
-Basic calculator using Android and Kotlin.
+Basic calculator using Android, XML ,and Kotlin.
